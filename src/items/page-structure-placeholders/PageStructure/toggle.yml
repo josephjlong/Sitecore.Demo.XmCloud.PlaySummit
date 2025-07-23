@@ -15,7 +15,7 @@ Languages:
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
-    Value: "b20a550a-caf9-442a-b23b-1dd0d0c76b0d"
+    Value: "5a22f1a1-65d9-4509-a4e3-268647836f83"
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Til/fra
@@ -29,7 +29,7 @@ Languages:
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
-    Value: "b20a550a-caf9-442a-b23b-1dd0d0c76b0d"
+    Value: "5a22f1a1-65d9-4509-a4e3-268647836f83"
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Toggle
@@ -50,7 +50,7 @@ Languages:
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
-    Value: "b20a550a-caf9-442a-b23b-1dd0d0c76b0d"
+    Value: "5a22f1a1-65d9-4509-a4e3-268647836f83"
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: 切り替え
@@ -64,7 +64,7 @@ Languages:
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
-    Value: "b20a550a-caf9-442a-b23b-1dd0d0c76b0d"
+    Value: "5a22f1a1-65d9-4509-a4e3-268647836f83"
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: 切换
